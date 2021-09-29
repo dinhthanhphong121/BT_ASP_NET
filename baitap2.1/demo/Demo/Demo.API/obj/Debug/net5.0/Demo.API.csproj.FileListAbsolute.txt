@@ -1,0 +1,12 @@
+D:\asp_net\demo\Demo\Demo.API\bin\Debug\net5.0\Demo.API.deps.json
+D:\asp_net\demo\Demo\Demo.API\bin\Debug\net5.0\Demo.API.dll
+D:\asp_net\demo\Demo\Demo.API\bin\Debug\net5.0\ref\Demo.API.dll
+D:\asp_net\demo\Demo\Demo.API\bin\Debug\net5.0\Demo.API.pdb
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.csproj.AssemblyReference.cache
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.AssemblyInfoInputs.cache
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.AssemblyInfo.cs
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.csproj.CoreCompileInputs.cache
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.dll
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\ref\Demo.API.dll
+D:\asp_net\demo\Demo\Demo.API\obj\Debug\net5.0\Demo.API.pdb
